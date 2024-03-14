@@ -8,7 +8,7 @@ The model is trained using logistic regression and is deployed with Streamlit to
 ## Dataset
 The dataset used in this project is sourced from [Kaggle's Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data). It comprises various features computed from digitized images of breast mass FNAs, along with the corresponding diagnosis (benign or malignant).
 
-![Screenshot](assests/image.png)
+![Screenshot](/assets/image.png)
 
 ## Installation
 To run the project locally, follow these steps:
