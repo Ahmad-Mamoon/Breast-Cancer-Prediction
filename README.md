@@ -3,6 +3,8 @@
 ## Overview
 This project aims to develop a predictive model for breast cancer diagnosis using the Breast Cancer Wisconsin (Diagnostic) Data Set obtained from Kaggle. The dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass, and the task is to classify whether the mass is benign or malignant.
 
+You can also access the deployed app online [here](https://breast-cancer-prediction-by-ahmad.streamlit.app/).
+
 The model is trained using logistic regression and is deployed with Streamlit to provide an intuitive and interactive web interface for users to interact with the predictive model.
 
 ## Dataset
